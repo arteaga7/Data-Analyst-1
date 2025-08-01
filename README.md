@@ -5,7 +5,7 @@ This repository contains the following projects:
 
 2. "project6.ipynb"
 
-**Libraries used**: Pandas, Matplotlib, NumPy, SciPy.
+🛠️**Libraries used**: Pandas, Matplotlib, NumPy, SciPy.
 
 ## 1. "Project 5"
 This project analyzes the information of two different telecommunication plans (Surf and Ultimate). The information is in 5 different datasets. Visualizations and hypotheses tests are performed.
